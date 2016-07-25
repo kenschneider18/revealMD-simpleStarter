@@ -1,5 +1,6 @@
 ##TODO: AHHHHHHHHHHHHH
 
+##We can host Static Content
 
 ###Vertical Slide 1
 - A new line, 3 dashes and a newline - indicate a new slide for the current section (horizontal transition)
